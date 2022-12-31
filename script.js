@@ -165,105 +165,105 @@ sobreMi.addEventListener("click", function () {
 cerrarVentana.addEventListener("click", cerrarVentanaGrande);
 
 miniatura1.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/Alura/Curso LinkedIn.jpg">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/Alura/Curso LinkedIn.jpg">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
 });
 
 miniatura2.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/Alura/Curso Foco.jpg">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/Alura/Curso Foco.jpg">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
 });
 
 miniatura3.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/Alura/Curso Hábitos.jpg">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/Alura/Curso Hábitos.jpg">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
 });
 
 miniatura4.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/Alura/Curso Productividad.jpg">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/Alura/Curso Productividad.jpg">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
 });
 
 miniatura5.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/Alura/Curso Lógica de programación 1.jpg">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/Alura/Curso Lógica de programación 1.jpg">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
 });
 
 miniatura6.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/Alura/Curso Lógica de programación 2.jpg">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/Alura/Curso Lógica de programación 2.jpg">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
 });
 
 miniatura7.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/Alura/Curso Lógica de programación 3.jpg">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/Alura/Curso Lógica de programación 3.jpg">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
 });
 
 miniatura8.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/Alura/Curso HTML5 y CSS3 parte 1.jpg">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/Alura/Curso HTML5 y CSS3 parte 1.jpg">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
 });
 
 miniatura9.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/Alura/Curso HTML5 y CSS3 parte 2.jpg">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/Alura/Curso HTML5 y CSS3 parte 2.jpg">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
 });
 
 miniatura10.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/Alura/Curso HTML5 y CSS3 parte 3.jpg">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/Alura/Curso HTML5 y CSS3 parte 3.jpg">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
 });
 
 miniatura11.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/Alura/Curso HTML5 y CSS3 parte 4.jpg">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/Alura/Curso HTML5 y CSS3 parte 4.jpg">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
 });
 
 miniatura12.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/SoloLearn/SoloLearn HTML.png">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/SoloLearn/SoloLearn HTML.png">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
 });
 
 miniatura13.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/SoloLearn/SoloLearn CSS.png">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/SoloLearn/SoloLearn CSS.png">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
 });
 
 miniatura14.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/SoloLearn/SoloLearn JavaScript.png">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/SoloLearn/SoloLearn JavaScript.png">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
 });
 
 miniatura15.addEventListener("click", function(){
-    imagenGrande.innerHTML = '<img src="/imagenes-certificados/Platzi/diploma-platzi.jpg">';
+    imagenGrande.innerHTML = '<img src="imagenes-certificados/Platzi/diploma-platzi.jpg">';
     
     ventanaGrande.style.opacity = "1";
     ventanaGrande.style.zIndex = "1";
