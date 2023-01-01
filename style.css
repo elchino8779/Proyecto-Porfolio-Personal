@@ -262,14 +262,35 @@ header{
     top: 48px;
     left: 48px;
     width: 64%;
-    height: auto;
+    height: 84%;
     border-radius: 17px;
     font-size: 1.5em;
     text-align: center;
-    background-color: yellow;
     position: fixed;
+    display: flex;
+    justify-content: center;
+    overflow: auto;
     transition: 0.5s ease-in-out;
     opacity: 0;
+}
+
+.caja-sobremi p{
+    font-size: 1.2em;
+    width: 90%;
+    height: auto;
+}
+
+.caja-sobremi::-webkit-scrollbar{
+    width:7px;
+}
+
+.caja-sobremi::-webkit-scrollbar-track{
+    background: transparent;
+}
+
+.caja-sobremi::-webkit-scrollbar-thumb{
+    background-color: rgba(106, 154, 126, 0.52);
+    border-radius: 20px;
 }
 
 .selector{
